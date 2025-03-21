@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-shrivastav232702&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-shrivastav232702" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna-shrivastav232702" alt="krishna-shrivastav232702" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=krishna-shrivastav232702&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 <img align="right" alt="coding" width="300" src="https://i.gifer.com/5Tz.gif"/>
 
@@ -34,10 +35,10 @@
 <br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-shrivastav232702&" alt="krishna-shrivastav232702" /></p>
+![](https://github-readme-stats.vercel.app/api?username=krishna-shrivastav232702&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna-shrivastav232702&show_icons=true&locale=en" alt="krishna-shrivastav232702" /></p>
+![](https://nirzak-streak-stats.vercel.app/?user=krishna-shrivastav232702&theme=dark&hide_border=false)<br/>
 
