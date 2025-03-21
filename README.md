@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna-shrivastav232702" alt="krishna-shrivastav232702" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/5Tz.gif"
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/5Tz.gif"/>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms in C++,Svelte,SvelteKit,Cloud Computing**
 
