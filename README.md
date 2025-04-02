@@ -8,7 +8,7 @@
 
 <img align="right" alt="coding" width="300" src="https://i.gifer.com/5Tz.gif"/>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms in C++,Svelte,SvelteKit,Cloud Computing**
+- 🌱 I’m currently learning **Data Structures and Algorithms in C++,Cloud Computing**
 
 - 💬 Ask me about **React,Node,Express**
 
