@@ -2,7 +2,9 @@
 <h3 align="center">A Full-stack developer passionate about modern tech, scalability, and cloud infrastructure. Constantly exploring new tools to build efficient applications</h3>
 
 <p align="center">
-  <a href="https://krishna-shrivastav-portfolio.vercel.app">Portfolio</a>
+  <a href="https://krishna-shrivastav-portfolio.vercel.app">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/krishna-shrivastav-a08b51265/">LinkedIn</a> •
+  <a href="mailto:krishnashrivastava23@gmail.com">Email</a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krishna-shrivastav232702&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-shrivastav232702" /> </p>
